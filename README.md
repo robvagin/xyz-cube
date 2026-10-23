@@ -50,7 +50,7 @@ Take it if you want it.
 - [PSP Menu Art](https://github.com/robvagin/psp-game-preview-crop) · menu artwork for a PSP game: crop, see it on the XMB, convert video and sound
 - [Bro Gamepad](https://github.com/robvagin/bro-gamepad) · a PS4 controller as an effects pad for Bitwig Studio
 - [Particle Dance](https://github.com/robvagin/particle-dance) · particles that dance along patterns and 3D forms
-- [Layer Type](https://github.com/robvagin/layer-type) · three letters, one 3D body: each side reads a different letter
+- [Layer Type](https://github.com/robvagin/layer-type) · type any three letters: one 3D body, each side reads a different one
 - [Pack Label](https://github.com/robvagin/pack-label) · coffee bag labels, checked and ready for print
 - [Image Shuffler](https://github.com/robvagin/image-shuffler) · your screenshots flying in 3D, recorded as a video
 - [Sunburst](https://github.com/robvagin/sunburst) · a hierarchy as a 3D sunburst chart with height
